@@ -1,0 +1,7 @@
+parameters:
+#    iog_base.example.class: Iog\BaseBundle\Example
+
+services:
+#    iog_base.example:
+#        class: %iog_base.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

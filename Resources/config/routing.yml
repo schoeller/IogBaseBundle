@@ -1,0 +1,3 @@
+iog_base_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: IogBaseBundle:Default:index }
