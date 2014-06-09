@@ -44,8 +44,8 @@ AdminEmail=webmaster@example.com
 EmailSender=test@example.com
  
 [RegionalSettings]
-Locale=ger-DE
-ContentObjectLocale=ger-DE
+Locale=eng-GB
+ContentObjectLocale=eng-GB
 TextTranslation=disabled
  
 */ ?>

@@ -38,7 +38,7 @@ ezpublish:
         site_group:
             repository: site
             languages:
-                - ger-DE
+                - eng-GB
         frontend_group:
             session_name: MyFrontendSessionName
         site:

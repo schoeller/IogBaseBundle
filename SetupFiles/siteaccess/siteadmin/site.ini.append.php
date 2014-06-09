@@ -21,7 +21,7 @@ Debug=inline
  
 [RegionalSettings]
 SiteLanguageList[]
-SiteLanguageList[]=ger-DE
+SiteLanguageList[]=eng-GB
 ShowUntranslatedObjects=enabled
  
 */ ?>
