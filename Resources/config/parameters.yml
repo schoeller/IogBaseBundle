@@ -1,0 +1,2 @@
+parameters:
+    ezpublish_legacy.default.view_default_layout: 'IogBaseBundle::pagelayout.html.twig'
